@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fastians&style=flat-square&color=blue" alt=""/>
-</div>
 
 ### 👨‍💻 About Me :
 I am a Software Engineer.
