@@ -1,3 +1,4 @@
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   
@@ -25,4 +26,8 @@ I am a Software Engineer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" **alt="Graphql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Fastapi" **alt="Fastapi" width="40" height="40"/>
+</div>
+-->
+<div align='center'> 
+<img src="https://tech-orbit.wontory.dev/api?title=abdul&tech=HTML5,CSS3,React,Redux,React%20Query,Tailwind%20CSS,JavaScript,TypeScript&size=950&duration=15" style="max-width: 700px;" />
 </div>
